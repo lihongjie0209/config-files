@@ -1,4 +1,8 @@
-# 使用 find 的时候递归查询 cwd
+" 使用 find 的时候递归查询 cwd
 set path+=**
-# 显示候选框
+" 显示候选框
 set wildmenu
+
+" 实时搜索
+
+:set incsearch
