@@ -5,4 +5,7 @@ set wildmenu
 
 " 实时搜索
 
-:set incsearch
+set incsearch
+
+" 自动补全时忽略大小写
+set ignorecase
